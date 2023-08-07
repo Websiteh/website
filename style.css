@@ -1,7 +1,13 @@
 body    {
     background-color: #CAF0F8;
     text-align: center;
+    text-decoration: none  !important;
+    
 }
 .colorpalette{
     color: #03045E;
+}
+
+.lists a{
+    text-decoration: none;
 }
