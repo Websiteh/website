@@ -1,0 +1,20 @@
+/* https://coolors.co/palette/0a0908-22333b-eae0d5-c6ac8f-5e503f
+0A0908 black
+22333B dark blue
+EAE0D5 white
+C6AC8F beige
+5E503F brown
+*/
+body {
+    background-color: #EAE0D5;
+}
+.phoenix  {
+    align-items: center; 
+    display: flex;
+}
+.phoeniximg {
+    width: 150px;
+    height: auto;
+    float: left;
+}
+
