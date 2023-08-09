@@ -6,7 +6,7 @@ C6AC8F beige
 5E503F brown
 */
 body {
-    background-color: #c7944c   ;
+    background-color: #fbfbfb   ;
 }
 .phoenix  {
     align-items: center; 
@@ -35,3 +35,20 @@ body {
     
 }
 
+.RoundsLotusPhoenix {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    line-height: 25px
+}
+.DefenseLotusPhoenix {
+    font-size: 25px;
+
+}
+
+.RoundCall {
+    font-size: 30px;
+}
+.GeneralRounds {
+    line-height: 12px;
+    margin-top: 60px;
+}
